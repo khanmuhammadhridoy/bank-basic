@@ -1,9 +1,6 @@
 body {
     padding: 100px;
 }
-#loginArea{
-    display: none;
-}
 .submitArea {
     margin-top: 50px;
     padding: 40px;
@@ -30,6 +27,6 @@ body {
     background-color: orange;
 }
 
-#transitionArea {
-    /* display: none; */
+#transactionArea {
+    display: none;
 }
